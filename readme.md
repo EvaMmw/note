@@ -24,7 +24,7 @@
 	2.1美化UI
 	
 	2.2数据备份
-![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/beifen.png)	
+![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/beifen.png)
 	点击数据备份  数据库db文件会保存到手机内存中
 	删除所有数据后可点击恢复数据 从保存到手机内存中的db文件恢复数据。
 
