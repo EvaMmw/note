@@ -34,4 +34,5 @@
 ![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/time_paixu.png)
 ![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/color.png)
 ![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/title.png)
+
 使用了spinner + 自定义spinnerAdapter
